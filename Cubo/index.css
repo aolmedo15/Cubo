@@ -10,5 +10,8 @@ header{
     background-color: antiquewhite;
     border: 3px solid brown;
     border-radius: 22px;
+}
 
+.amarillo{
+    color: yellow;
 }
