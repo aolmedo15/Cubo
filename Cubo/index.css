@@ -5,8 +5,11 @@ h1#titulo {
     padding-bottom: 10px;
 }
 
-header{
+body{
+    background-color: rgb(247, 218, 182);
+}
 
+header{
     background-color: antiquewhite;
     border: 3px solid brown;
     border-radius: 22px;
