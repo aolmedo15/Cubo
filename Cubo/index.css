@@ -18,3 +18,23 @@ header{
 .amarillo{
     color: rgb(255, 255, 2);
 }
+
+.azul{
+    color: blue;
+}
+
+.blanco{
+    color: white;
+}
+
+.verde{
+    color: rgb(2, 68, 2);
+}
+
+.rojo{
+    color: rgb(148, 5, 5);
+}
+
+.naranja{
+    color: rgb(255, 94, 0);
+}
